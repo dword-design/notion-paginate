@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/notion-paginate/compare/v1.0.3...v1.0.4) (2022-10-07)
+
+
+### Bug Fixes
+
+* write GitHub metadata to package.json [keywords] ([#4](https://github.com/dword-design/notion-paginate/issues/4)) ([dc46bcb](https://github.com/dword-design/notion-paginate/commit/dc46bcb234677806250823ab344c77f1e9ad3906))
+
 ## [1.0.3](https://github.com/dword-design/notion-paginate/compare/v1.0.2...v1.0.3) (2022-10-07)
 
 
