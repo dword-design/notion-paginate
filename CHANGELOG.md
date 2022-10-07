@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/notion-paginate/compare/v1.0.2...v1.0.3) (2022-10-07)
+
+
+### Bug Fixes
+
+* applied a fix from action-sync-node-meta ([#3](https://github.com/dword-design/notion-paginate/issues/3)) ([72b4ebd](https://github.com/dword-design/notion-paginate/commit/72b4ebddacd9f779bd54884348a7e976789360f7))
+
 ## [1.0.2](https://github.com/dword-design/notion-paginate/compare/v1.0.1...v1.0.2) (2022-10-07)
 
 
