@@ -29,5 +29,13 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "description": "Load all data of a Notion API call, running pagination until no further data exist.",
+  "keywords": [
+    "notion",
+    "notion-api",
+    "page",
+    "paginate",
+    "pagination"
+  ]
 }
