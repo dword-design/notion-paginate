@@ -50,7 +50,7 @@
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
-
+Load all data of a Notion API call, running pagination until no further data exist.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->

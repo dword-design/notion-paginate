@@ -1,6 +1,14 @@
 {
   "name": "notion-paginate",
   "version": "1.0.0",
+  "description": "Load all data of a Notion API call, running pagination until no further data exist.",
+  "keywords": [
+    "notion",
+    "notion-api",
+    "page",
+    "paginate",
+    "pagination"
+  ],
   "repository": "dword-design/notion-paginate",
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
@@ -29,13 +37,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "description": "Load all data of a Notion API call, running pagination until no further data exist.",
-  "keywords": [
-    "notion",
-    "notion-api",
-    "page",
-    "paginate",
-    "pagination"
-  ]
+  }
 }
