@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/notion-paginate/compare/v1.0.1...v1.0.2) (2022-10-07)
+
+
+### Bug Fixes
+
+* doc ([7a71a89](https://github.com/dword-design/notion-paginate/commit/7a71a895eab989f5b9805571f871fc18e21010b6))
+
 ## [1.0.1](https://github.com/dword-design/notion-paginate/compare/v1.0.0...v1.0.1) (2022-10-07)
 
 
