@@ -65,6 +65,21 @@ $ yarn add notion-paginate
 ```
 <!-- /INSTALL -->
 
+## Usage
+
+Usage is very similar to [Octokit paginate function](https://octokit.github.io/rest.js/v19#pagination). You pass the function to paginate with the parameters and `notion-paginate` will do the pagination magic:
+
+```js
+const { Client: NotionClient } = require('@notionhq/client')
+const notionPaginate = require('notion-paginate')
+
+const notion = new NotionClient({ auth: notionApiToken })
+
+const pages = await notionPaginate(notion.databases.query, { database_id: databaseId })
+```
+
+You can also pass other parameters like filters or the page size to the options object.
+
 <!-- LICENSE/ -->
 ## Contribute
 
