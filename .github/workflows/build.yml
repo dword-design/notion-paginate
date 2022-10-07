@@ -48,6 +48,7 @@ jobs:
       - run: yarn --frozen-lockfile
       - env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TEST_NOTION_API_TOKEN: ${{ secrets.TEST_NOTION_API_TOKEN }}
         run: yarn test
       - if: failure()
         uses: actions/upload-artifact@v3
