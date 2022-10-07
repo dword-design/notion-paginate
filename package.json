@@ -8,6 +8,7 @@
     "notion-api",
     "octokit",
     "page",
+    "pages",
     "paginate",
     "pagination"
   ],
