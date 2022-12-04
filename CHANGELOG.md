@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dword-design/notion-paginate/compare/v1.0.4...v2.0.0) (2022-12-04)
+
+
+### Bug Fixes
+
+* drop node.js 12, move to esm ([#5](https://github.com/dword-design/notion-paginate/issues/5)) ([63253b0](https://github.com/dword-design/notion-paginate/commit/63253b0f573ec4b9c8b3f6ac29c345ad9da06cc8))
+
+
+### BREAKING CHANGES
+
+* drop node.js 12, move to esm
+
 ## [1.0.4](https://github.com/dword-design/notion-paginate/compare/v1.0.3...v1.0.4) (2022-10-07)
 
 
