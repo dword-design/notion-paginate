@@ -2,7 +2,7 @@ import dotenv from '@dword-design/dotenv-json-extended'
 import { identity, map, sortBy } from '@dword-design/functions'
 import { Client as NotionClient } from '@notionhq/client'
 
-import self from '.'
+import self from './index.js'
 
 const databaseId = 'a6d4375c-51c7-483b-b06c-1f37e23c04f9'
 dotenv.config()
