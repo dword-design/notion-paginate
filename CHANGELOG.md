@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/dword-design/notion-paginate/compare/v2.0.2...v2.0.3) (2023-03-18)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/dotenv-json-extended to v2.0.11 ([f8aec36](https://github.com/dword-design/notion-paginate/commit/f8aec366c3000697a6dd328c516d20a0b130ecc7))
+
 ## [2.0.2](https://github.com/dword-design/notion-paginate/compare/v2.0.1...v2.0.2) (2023-03-18)
 
 
