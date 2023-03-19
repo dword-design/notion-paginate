@@ -1375,9 +1375,9 @@
     require-package-name "^2.0.1"
 
 "@dword-design/dotenv-json-extended@^2.0.8":
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/@dword-design/dotenv-json-extended/-/dotenv-json-extended-2.0.13.tgz#7057b5f4600a7e564b6ea953e1f58d3e2bf29edb"
-  integrity sha512-7nJKSm3uXh3hPT1gFKn/zY9vwf0/d3DVCY4Y3ZLA5SgEfstcRYFw0kP4jdc5fhHsfiTpSRVWUaz2ITlgHkIxpQ==
+  version "2.0.14"
+  resolved "https://registry.yarnpkg.com/@dword-design/dotenv-json-extended/-/dotenv-json-extended-2.0.14.tgz#e5ec94740877ecc88bf3b82354cf490cfc7aee20"
+  integrity sha512-p6TU5Sp2vmI7yYnYEfQwUPZhTaCLCccrAhgtwFYzwXt/H9CQApTjun1b/CzD2kLMlcPPfs5Vtdm8Hl24rn7J1g==
   dependencies:
     "@dword-design/functions" "^4.0.0"
     ajv "^8.0.0"
