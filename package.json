@@ -1,6 +1,6 @@
 {
   "name": "notion-paginate",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Load all data of a Notion API call, running pagination until no further data exist. Inspired by Octokit paginate function.",
   "keywords": [
     "github",

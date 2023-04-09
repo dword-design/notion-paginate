@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/dword-design/notion-paginate/compare/v2.0.6...v2.0.7) (2023-04-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#12](https://github.com/dword-design/notion-paginate/issues/12)) ([b692b34](https://github.com/dword-design/notion-paginate/commit/b692b34fab8ed3c3fd2de5e3da6ad0a3fc1b7957))
+
 ## [2.0.6](https://github.com/dword-design/notion-paginate/compare/v2.0.5...v2.0.6) (2023-03-20)
 
 
