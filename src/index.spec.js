@@ -16,7 +16,7 @@ export default {
       page_size: 2,
     })
     expect(
-      result |> map('properties.Name.title[0].plain_text') |> sortBy(identity)
+      result |> map('properties.Name.title[0].plain_text') |> sortBy(identity),
     ).toEqual(['1', '2', '3', '4', '5'])
   },
 }
