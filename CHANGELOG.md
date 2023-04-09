@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/notion-paginate/compare/v2.0.7...v2.0.8) (2023-04-09)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4.1.7 ([07c46e4](https://github.com/dword-design/notion-paginate/commit/07c46e4d2237174b21174b537f2fb704dd4bb40d))
+
 ## [2.0.7](https://github.com/dword-design/notion-paginate/compare/v2.0.6...v2.0.7) (2023-04-09)
 
 
