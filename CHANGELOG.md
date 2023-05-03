@@ -1,3 +1,10 @@
+## [2.0.14](https://github.com/dword-design/notion-paginate/compare/v2.0.13...v2.0.14) (2023-05-03)
+
+
+### Bug Fixes
+
+* update dependency @notionhq/client to v2.2.5 ([6bc42a0](https://github.com/dword-design/notion-paginate/commit/6bc42a0ccb0dfa62d72151e96954dafd73e0ee78))
+
 ## [2.0.13](https://github.com/dword-design/notion-paginate/compare/v2.0.12...v2.0.13) (2023-04-12)
 
 
