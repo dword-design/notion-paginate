@@ -53,6 +53,8 @@
 Load all data of a Notion API call, running pagination until no further data exist. Inspired by Octokit paginate function.
 <!-- /DESCRIPTION -->
 
+:information_source: **This is now part of the [Notion SDK](https://github.com/makenotion/notion-sdk-js\?tab\=readme-ov-file\#iteratepaginatedapilistfn-firstpageargs).**
+
 <!-- INSTALL/ -->
 ## Install
 
