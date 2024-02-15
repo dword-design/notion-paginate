@@ -1,3 +1,10 @@
+## [2.0.15](https://github.com/dword-design/notion-paginate/compare/v2.0.14...v2.0.15) (2024-02-15)
+
+
+### Bug Fixes
+
+* document deprecated ([447c293](https://github.com/dword-design/notion-paginate/commit/447c293a6e41912095db112b48636824356f0f50))
+
 ## [2.0.14](https://github.com/dword-design/notion-paginate/compare/v2.0.13...v2.0.14) (2023-05-03)
 
 
